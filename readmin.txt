@@ -1,2 +1,3 @@
 哎呀，这怎么回事呀
 魏傻狗
+private String name;
