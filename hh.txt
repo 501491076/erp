@@ -1,0 +1,3 @@
+public void test(){
+	system.out.println("哎呀真的好看呐");	
+}
